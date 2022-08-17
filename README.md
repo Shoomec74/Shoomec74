@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/JXA0.gif" alt="programmer" height="400px"/>
+<img src="https://i.gifer.com/JXA0.gif" alt="programmer" width=480 height=360 />
 
 
 
