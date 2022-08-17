@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://i.gifer.com/origin/45/45f92e6ce617073d35152225fdcb8644_w200.webp" />Не зовите меня кодить если это не похоже на это</h1>
+<h1 align="center"><img src="https://i.gifer.com/origin/45/45f92e6ce617073d35152225fdcb8644_w200.webp" /></h1>
 <h1 align="center">Не зовите меня кодить если это не похоже на это </h1>
 
 ### О себе:
