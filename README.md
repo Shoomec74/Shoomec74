@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png" alt="" height="50" width="120" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png" alt="" height="26" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
