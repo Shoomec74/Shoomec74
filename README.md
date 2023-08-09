@@ -20,6 +20,6 @@
 <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
 <a href="#" target="_blank"><img src="https://documentation.mjml.io/images/logo.png" width="100" height="40"/></a>
 <a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/electron_94377.png" width="40" height="40"/></a>
-<a href="#" target="_blank"><img src="https://i.pinimg.com/236x/20/ad/1e/20ad1ef00ba29e0b211d705934eb78f2--javascript-coding.jpg" width="40" height="40"/></a>
+<a href="#" target="_blank"><img src="https://whatthelogo.com/storage/logos/puppeteer-274952.webp" width="40" height="50"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
