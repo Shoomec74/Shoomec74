@@ -5,10 +5,10 @@
 
 <h3 align="left">Свяжитесь со мной:</h3>
 <p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png" alt="" height="26" width="100" /></a>
+<a href="https://t.me/irkut127" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png" alt="" height="26" width="100" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Мой скромный стек технологий:</h3>
 <p align="left"> 
 <a href="https://www.adobe.com/ru/products/xd.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="40" height="40"/></a> 
 <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/></a>
