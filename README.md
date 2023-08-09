@@ -17,6 +17,7 @@
 <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/></a>
 <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
 <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
+  <a href="#" target="_blank"><img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" width="40" height="40"/></a>
 <a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nest_middleware_ts_icon_130362.png" width="40" height="40"/></a>
 <a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" width="40" height="40"/></a>
 <a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/electron_94377.png" width="40" height="40"/></a>
