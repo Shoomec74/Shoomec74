@@ -24,5 +24,5 @@
 <h3 align="left">Свяжитесь со мной:</h3>
 <p align="left">
 <a href="https://t.me/irkut127" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png" alt="" height="26" width="100" /></a>
-<a href="mailto:shoomec@yandex.ru?" target="_blank"><img align="center" src="https://www.ulkucumedya.com/d/news/106485.jpg" alt="" height="26" width="100" /></a>
+<a href="mailto:shoomec@yandex.ru?" target="_blank"><img align="center" src="https://free-png.ru/wp-content/uploads/2021/11/free-png.ru-456.png" alt="" height="26" width="100" /></a>
 </p>
